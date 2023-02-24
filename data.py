@@ -1,0 +1,41 @@
+
+
+question_data = [
+     {"category": "Entertainment: Video Games", "type": "multiple", "difficulty": "hard",
+      "question": "In the game &quot;The Sims&quot;, how many Simoleons does each family start with?",
+      "correct_answer": "20,000",
+      "incorrect_answers": ["10,000", "15,000", "25,000"]},
+     {"category": "General Knowledge", "type": "multiple", "difficulty": "easy",
+      "question": "Area 51 is located in which US state?", "correct_answer": "Nevada",
+      "incorrect_answers": ["Arizona", "New Mexico", "Utah"]},
+     {"category": "Entertainment: Video Games", "type": "multiple", "difficulty": "easy",
+      "question": "&quot;Tomb Raider&quot; icon Lara Croft was originally called...",
+      "correct_answer": "Laura Cruz", "incorrect_answers": ["Laura Craft", "Laura Croft", "Lara Craft"]},
+     {"category": "Science: Gadgets", "type": "multiple", "difficulty": "medium",
+      "question": "Which company designed the &quot;Betamax&quot; video cassette format?",
+      "correct_answer": "Sony", "incorrect_answers": ["Panasonic", "LG", "Fujitsu"]},
+     {"category": "Entertainment: Video Games", "type": "multiple", "difficulty": "hard",
+      "question": "Which Kingdom Hearts game featured the cast of &quot;The World Ends With You&quot;?",
+      "correct_answer": "Dream Drop Distance",
+      "incorrect_answers": ["Birth By Sleep", "365/2 Days", "Re:Chain of Memories"]},
+     {"category": "Entertainment: Television", "type": "multiple", "difficulty": "easy",
+      "question": "In &quot;Breaking Bad&quot;,"
+      " Walter White is a high school teacher diagnosed with which form of cancer?",
+      "correct_answer": "Lung Cancer",
+      "incorrect_answers": ["Prostate Cancer", "Brain Cancer", "Testicular Cancer"]},
+     {"category": "Entertainment: Video Games", "type": "multiple", "difficulty": "medium",
+      "question": "In &quot;Resident Evil 2&quot;, what is Leon Kennedy&#039;s middle name?",
+      "correct_answer": "Scott", "incorrect_answers": ["Shaun", "Simon", "Sam"]},
+     {"category": "Entertainment: Cartoon & Animations", "type": "multiple", "difficulty": "medium",
+      "question": "What is the name of the Alligator that The Simpsons &quot;killed&quot; in the episode "
+                  "&quot;Kill The Alligator and Run&quot;?",
+      "correct_answer": "Captain Jack",
+      "incorrect_answers": ["Captain Jake", "Captain Hector", "Captain Flynn"]},
+     {"category": "Entertainment: Music", "type": "boolean", "difficulty": "easy",
+      "question": "John Williams composed the music for &quot;Star Wars&quot;.", "correct_answer": "True",
+      "incorrect_answers": ["False"]},
+     {"category": "Entertainment: Japanese Anime & Manga", "type": "multiple", "difficulty": "medium",
+      "question": "Which of these is not a world in the anime &quot;Buddyfight&quot;?",
+      "correct_answer": "Ancient Dragon World",
+      "incorrect_answers": ["Dragon World", "Star Dragon World", "Darkness Dragon World"]}
+]
